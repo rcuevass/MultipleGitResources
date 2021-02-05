@@ -8,5 +8,4 @@
 ## SQL version control
 
 - [Git Best Practices For SQL](https://towardsdatascience.com/git-best-practices-for-sql-5366ab4abb50)
-
 - [How to version control a DB using GitHub and SQL source control](https://www.red-gate.com/hub/product-learning/sql-source-control/github-and-sql-source-control)
